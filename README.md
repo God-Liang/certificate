@@ -19,4 +19,5 @@ android.keystore中的`android`为证书名称
 
 4.bin文件中存在一个后缀名为`.keystore`文件,该文件就是证书了
 
-5.![uni-app使用](https://github.com/God-Liang/certificate/blob/master/keystore.jpg?raw=true)
+5.uni-app打包使用
+![keystore](https://github.com/God-Liang/certificate/blob/master/keystore.jpg?raw=true)
